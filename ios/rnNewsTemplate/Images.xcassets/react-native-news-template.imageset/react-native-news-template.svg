@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1014" height="834" viewBox="0 0 1014 834">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1014" height="834"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="974.125" height="800" rx="50" transform="translate(20 17)" fill="#f5f5f5"/>
+    <text id="React_Native" data-name="React Native" transform="translate(317 641)" fill="#707070" font-size="50" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="39">React Native</tspan></text>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="291" height="214" rx="25" transform="translate(637 539)" fill="#747474"/>
+    <text id="News_Template" data-name="News
+Template" transform="translate(662 681)" fill="#f5f5f5" font-size="50" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">News</tspan><tspan x="0" y="48">Template</tspan></text>
+  </g>
+</svg>
