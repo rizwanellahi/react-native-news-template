@@ -3,6 +3,11 @@
   <img width="160" src="https://media.giphy.com/media/XW37e9g6MWkCXm98zm/giphy.gif">
   <img width="160" src="https://media.giphy.com/media/wrESH6f4HwZdiBpNUe/giphy.gif">
 </p>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.reactnativenewstemplate&hl=en&gl=US" target="_blank">
+    <img width="200" src="https://i.postimg.cc/TYf2w0yd/google-play-badge.png">
+  </a>
+</p>
 
  :iphone: Clean and minimalist react native news template for quick start.
 #
